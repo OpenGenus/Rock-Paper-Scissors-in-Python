@@ -11,7 +11,7 @@ General rules for understanding the game:
 5. If both user1 and user2 pick a similar action then it will result in a draw.
 
 To get to know more about the article linked to this project, 
-vist: [Rock-Paper-Scissors](https://iq.opengenus.org/p/59c2288d-6e65-4ed3-97b3-778797839349/ "@OpenGenus")
+vist: [Rock-Paper-Scissors](https://iq.opengenus.org/rock-paper-scissors-in-python/ "@OpenGenus")
 
 # Interested in adding,modifying or contributing to this?
 
